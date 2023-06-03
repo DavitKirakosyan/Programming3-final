@@ -1,0 +1,24 @@
+{
+  "name": "programming3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Castle.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavitKirakosyan/Programming3.git"
+  },
+  "author": "Davit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavitKirakosyan/Programming3/issues"
+  },
+  "homepage": "https://github.com/DavitKirakosyan/Programming3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}

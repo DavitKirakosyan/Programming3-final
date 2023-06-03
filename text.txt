@@ -1,0 +1,11 @@
+grass-xot e bazmanum e voroshaki jamanakum
+grassEater-xotaker e utum e xot,bazmanum,sharjvum,mahanum
+Predator-amenaker e utum e xor,xotaker,zinvor,sharjvum,mahanum
+Castle-Amroc e erb ir motakayqum hayntvum e Predator na spanum e predatorin ev dra texy stexcum zinvor
+Soldier-zinvor e spanum e xotakerin sharjvum e,mahanum
+Tavern-zinvornerin ognox karuyc e,tarmacnum e ir mot gtnvox zinvori energian
+Erb sxmum enq winter xoty darnum e spitak ev xaxy dandaxum e
+Erb sxum enq amar xoty darnum e kanach ev araganum e
+Erb sxmum enq normal xaxy veradarnum e ir skzbnakan dirqin
+Erb sxum enq Destroy matrix ic jnjuve e 1 patahakan toxum gtnvox bolor objectnery
+Avelacvac e statistika(inchqan xot ka ev Destroyov inch objectner enq jnjel)
